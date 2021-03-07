@@ -1,7 +1,7 @@
 ## Latest News
 
 - Quiz 1 will be held on Wednesday, March 10, 2021 at 17:50. Section 12.6, 13.1-13.3 are covered in this quiz. Be well-prepared!
-- Errata: During class on March 3, I've written down <img src="https://render.githubusercontent.com/render/math?math=\textbf{T}'(t) = \frac{\left\langle f'(t), g'(t), h'(t) \right\rangle}{\sqrt{f'(t)^2 %2B g'(t)^2 %2B h'(t)^2}}">. In fact, it should have been <img src="https://render.githubusercontent.com/render/math?math=\textbf{T}(t) = \frac{\left\langle f'(t), g'(t), h'(t) \right\rangle}{\sqrt{f'(t)^2 %2B g'(t)^2 %2B h'(t)^2}}">. Sorry for the inconvenience.
+- Errata: During class on March 3, I've written down <br/> <p align="center"> <img src="https://render.githubusercontent.com/render/math?math=\textbf{T}'(t) = \frac{\left\langle f'(t), g'(t), h'(t) \right\rangle}{\sqrt{f'(t)^2 %2B g'(t)^2 %2B h'(t)^2}}"> </p>. In fact, it should have been <br/> <p align="center"> <img src="https://render.githubusercontent.com/render/math?math=\textbf{T}'(t) = \frac{\left\langle f'(t), g'(t), h'(t) \right\rangle}{\sqrt{f'(t)^2 %2B g'(t)^2 %2B h'(t)^2}}"> </p>. Sorry for the inconvenience.
 
 ## Course Links
 - [WeBWorK](http://webwork.math.ntu.edu.tw/webwork2/1092MATH4008_07/)
