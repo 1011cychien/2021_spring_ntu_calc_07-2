@@ -14,10 +14,14 @@ layout: default
 |:------|:----------------|:---------------|
 | 03/03 | 12.6, 13.1-13.2 | Not Available  |
 
+* * *
+
 # Quiz Information
 | Title  | Date  | Coverage        |
 |:-------|:------|:----------------|
 | Quiz 1 | 03/10 | 12.6, 13.1-13.3 |
+
+* * *
 
 # Useful Math Tools
 ## [WolframAlpha](https://www.wolframalpha.com/)
