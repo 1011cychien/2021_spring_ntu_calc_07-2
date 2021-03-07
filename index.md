@@ -1,5 +1,4 @@
 ## Latest News
-
 - Quiz 1 will be held on Wednesday, March 10, 2021 at 17:50. Section 12.6, 13.1-13.3 are covered in this quiz. Be well-prepared!
 
 ## Course Links
@@ -7,7 +6,14 @@
 - [WeBWorK](http://webwork.math.ntu.edu.tw/webwork2/1092MATH4008_07/)
 
 ## Lecture Videos
-- (None yet)
+| Date  | Contents        | Lecture Videos |
+|:------|:----------------|:---------------|
+| 03/03 | 12.6, 13.1-13.2 | Not Available  |
+
+## Quiz Information
+| Title  | Date  | Coverage        |
+|:-------|:------|:----------------|
+| Quiz 1 | 03/10 | 12.6, 13.1-13.3 |
 
 ## Useful Math Tools
 ### [WolframAlpha](https://www.wolframalpha.com/)
@@ -19,4 +25,4 @@ GeoGebra is a free online math tools for graphing, geometry, 3D graphing. This h
 Fill out [this form](https://peing.net/zh-TW/1011_cychien) to give a feedback anonymously. Your invaluable suggestion makes us better.
 
 ## FAQ
-Some frequently asked question will be listed here.
+Some frequently asked questions will be listed here.
