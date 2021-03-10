@@ -10,15 +10,17 @@ layout: default
 - [WeBWorK](http://webwork.math.ntu.edu.tw/webwork2/1092MATH4008_07/)
 
 # Lecture Videos
+
 | Date  | Contents        | Lecture Videos |
-|:------|:----------------|:---------------|
+|-------|-----------------|----------------|
 | 03/03 | 12.6, 13.1-13.2 | Not Available  |
 
 * * *
 
 # Quiz Information
+
 | Title  | Date  | Coverage        |
-|:-------|:------|:----------------|
+|--------|-------|-----------------|
 | Quiz 1 | 03/10 | 12.6, 13.1-13.3 |
 
 * * *
