@@ -3,10 +3,10 @@ layout: default
 ---
 
 ## Latest News
-- Quiz 1 will be held on Wednesday, March 10, 2021 at 17:50. Sections 12.6, 13.1-13.3 are covered in this quiz. Be well-prepared!
+- Quiz 1 will be held on Wednesday, March 10, 2021 at 17:40. Sections 12.6, 13.1-13.3 are covered in this quiz. Be well-prepared!
 
 ## Course Links
-- [NTU Ceiba](https://ceiba.ntu.edu.tw/)
+- [NTU Ceiba](https://ceiba.ntu.edu.tw/modules/info/info.php?csn=a8a903&current_lang=chinese)
 - [WeBWorK](http://webwork.math.ntu.edu.tw/webwork2/1092MATH4008_07/)
 - [台大微積分統一教學網](http://www.math.ntu.edu.tw/~calc/Default.html)
 
