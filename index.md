@@ -10,7 +10,7 @@ layout: default
 - [WeBWorK](http://webwork.math.ntu.edu.tw/webwork2/1092MATH4008_07/)
 - [台大微積分統一教學網](http://www.math.ntu.edu.tw/~calc/Default.html)
 
-## Lecture Videos
+## Lecture Description
 
 | Date  | Contents        |
 |-------|-----------------|
