@@ -8,6 +8,7 @@ layout: default
 # Course Links
 - [NTU Ceiba](https://ceiba.ntu.edu.tw/)
 - [WeBWorK](http://webwork.math.ntu.edu.tw/webwork2/1092MATH4008_07/)
+- [台大微積分統一教學網](http://www.math.ntu.edu.tw/~calc/Default.html)
 
 # Lecture Videos
 
@@ -20,9 +21,11 @@ layout: default
 
 # Quiz Information
 
-| Title  | Date  | Coverage        | Appendix         |
-|--------|-------|-----------------|------------------|
-| Quiz 1 | 03/10 | 12.6, 13.1-13.3 |[1092-Quiz1-reference-quadratic-surface.pdf](https://github.com/1011cychien/2021_spring_ntu_calc_07-2/files/6114145/1092-Quiz1-reference-quadratic-surface.pdf)|
+If you would like to make a regrade request, having a discussion with the problem setter can be helpful!
+
+| Title  | Date  | Coverage        | Problem Setter   | Appendix         |
+|--------|-------|-----------------|------------------|------------------|
+| Quiz 1 | 03/10 | 12.6, 13.1-13.3 | 林奕廷 (at 新402) | [1092-Quiz1-reference-quadratic-surface.pdf](https://github.com/1011cychien/2021_spring_ntu_calc_07-2/files/6114145/1092-Quiz1-reference-quadratic-surface.pdf)|
 
 
 * * *
