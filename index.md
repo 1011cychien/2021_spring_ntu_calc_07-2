@@ -25,7 +25,7 @@ If you would like to make a regrade request, having a discussion with the proble
 
 | Title  | Date  | Coverage        | Problem Setter   | Appendix         |
 |--------|-------|-----------------|------------------|------------------|
-| Quiz 1 | 03/10 | 12.6, 13.1-13.3 | 林奕廷 (at 新402) | [1092-Quiz1-reference-quadratic-surface.pdf](https://github.com/1011cychien/2021_spring_ntu_calc_07-2/files/6114145/1092-Quiz1-reference-quadratic-surface.pdf)|
+| Quiz 1 | 03/10 | 12.6, 13.1-13.3 | 林奕廷 | [quiz1_apdx](https://github.com/1011cychien/2021_spring_ntu_calc_07-2/files/6114145/1092-Quiz1-reference-quadratic-surface.pdf)|
 
 
 * * *
