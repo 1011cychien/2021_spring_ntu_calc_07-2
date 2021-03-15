@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /2021-spring
 ---
 
 ## Latest News
