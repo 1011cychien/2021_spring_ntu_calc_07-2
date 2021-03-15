@@ -3,20 +3,19 @@ layout: default
 ---
 
 ## Latest News
-- The solution of Quiz 1 has benn released. Check them out!
-- Quiz 1 will be held on Wednesday, March 10, 2021 at 17:40. Sections 12.6, 13.1-13.3 are covered in this quiz. Be well-prepared!
+- Quiz 1 will be held on Monday, March 15, 2021 at 17:35. Sections 12.6, 13.1-13.3, 14.1-14.2 are covered in this quiz. Be well-prepared!
 
 ## Course Links
-- [NTU Ceiba](https://ceiba.ntu.edu.tw/modules/info/info.php?csn=a8a903&current_lang=chinese)
-- [WeBWorK](http://webwork.math.ntu.edu.tw/webwork2/1092MATH4008_07/)
+- [NTU Ceiba](https://ceiba.ntu.edu.tw/modules/info/info.php?csn=dd8bf0&current_lang=chinese)
+- [WeBWorK](http://webwork.math.ntu.edu.tw/webwork2/1092MATH4008_02/)
 - [台大微積分統一教學網](http://www.math.ntu.edu.tw/~calc/Default.html)
 
 ## Schedule
 
-| Date  | Contents        |
-|-------|-----------------|
-| 03/03 | 12.6, 13.1-13.2 |
-| 03/10 | 13.3 + Quiz 1   |
+| Date  | Topics                                     |
+|-------|--------------------------------------------|
+| 03/08 | Course Logistics, 2 Exercises from WeBWorK |
+| 03/15 | Quiz 1                                     |
 
 * * *
 
@@ -24,9 +23,9 @@ layout: default
 
 If you would like to make a regrade request, having a discussion with the problem setter can be helpful!
 
-| Title  | Date  | Coverage        | Problem Setter   | Appendix         | Solution |
-|--------|-------|-----------------|------------------|------------------|----------|
-| Quiz 1 | 03/10 | 12.6, 13.1-13.3 | 林奕廷 | [quiz1_apdx](https://github.com/1011cychien/2021_spring_ntu_calc_07-2/files/6114145/1092-Quiz1-reference-quadratic-surface.pdf) | [quiz1_sol](https://ceiba.ntu.edu.tw/course/a8a903/bulletin/457263_1092%20Quiz1-Sol.pdf) |
+| Title  | Date  | Coverage                   | Problem Setter   | Result          |
+|--------|-------|----------------------------|------------------|-----------------|
+| Quiz 1 | 03/15 | 12.6, 13.1-13.3, 14.1-14.2 | 簡謙益 (新生402) | Not updated yet |
 
 
 * * *
